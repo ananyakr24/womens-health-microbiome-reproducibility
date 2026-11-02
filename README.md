@@ -4,8 +4,6 @@ Are published microbiome signatures for PCOS and endometriosis reproducible acro
 
 A reproducibility and data-audit study using public sequencing data, Snakemake, R and Python.
 
-**Status:** 🟡 Planning (analysis plan in progress, no results yet)
-
 ---
 
 ## Motivation
