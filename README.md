@@ -94,5 +94,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Author
 
-[Your name], bioinformatician working in microbiome analysis.
-[LinkedIn](#) · [GitHub](https://github.com/ananyakr24)
+Ananya KR, bioinformatician working in microbiome analysis. · [GitHub](https://github.com/ananyakr24)
